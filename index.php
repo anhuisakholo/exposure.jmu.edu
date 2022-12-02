@@ -15,7 +15,7 @@
     <meta property='og:title' content='แทงบอลออนไลน์ ทางเลือกรูปแบบแห่งการทำเงินได้เต็มที่  พบกับบอลโลก ทำเงิน ผ่านทาง FAFA855 จ่ายเต็มที่' />
     <meta property='og:description' content='ไว้ใจในการ แทงบอลออนไลน์ ที่นี่เท่านั้น ทางเลือกทำเงิน ฤดูกาลโกยกำไร บอลโลก บนเว็บไซต์  FAFA855 มาพร้อมสิทธิพิเศษมากมาย ชนะเงินรางวัลได้เต็มที่' />
     <meta property='og:site_name' content='FAFA855' />
-    <meta name="google-site-verification" content="7cAHX4n43IM8KVvUPEPqUA3YZwnzpqR4yskNtlznFVU" />
+    <meta name="google-site-verification" content="P6IYb0uirAOUUJEzYNO6EcUHLMyUeZQ6xyjeuPYeuhk" />
     <meta name='page-locale' content='th'>
     <meta name='googlebot' content='index,follow'>
     <meta content='thailand' name='language'>
